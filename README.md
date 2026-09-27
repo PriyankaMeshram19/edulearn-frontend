@@ -121,29 +121,30 @@ Deployed on **Vercel**, connected directly to this GitHub repo — every push to
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### Landing Page
-<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/01-landing-page.png" width="800"/>
+<img src="screenshots/1-landing-page.png" width="800"/>
 
 ### Purchased Courses Dashboard
-<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/02-purchased-courses-dashboard.png" width="800"/>
+<img src="screenshots/2-Purchased courses dashboard.png" width="800"/>
 
 ### Payment
-<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/03-payment.png" width="800"/>
+<img src="screenshots/3-payment.png" width="800"/>
 
 ### Payment Success
-<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/04-payment-success.png" width="800"/>
+<img src="screenshots/4-payment success.png" width="800"/>
 
 ### Course
-<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/05-course.png" width="800"/>
+<img src="screenshots/5-course.png" width="800"/>
 
 ### Manage Course
-<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/06-manage-course.png" width="800"/>
+<img src="screenshots/6-Manage Course.png" width="800"/>
 
 ### Admin Dashboard
-<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/07-admin-dashboard.png" width="800"/>
+<img src="screenshots/7-Admin dashboard.png" width="800"/>
 
 ---
-
 ## 👨‍💻 Developer
 
 **Priyanka Meshram**

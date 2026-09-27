@@ -122,25 +122,25 @@ Deployed on **Vercel**, connected directly to this GitHub repo — every push to
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/01-landing-page.png)
+<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/01-landing-page.png" width="800"/>
 
-### Login Page
-![Login Page](screenshots/02-login-page.png)
+### Purchased Courses Dashboard
+<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/02-purchased-courses-dashboard.png" width="800"/>
 
-### Student Dashboard
-![Student Dashboard](screenshots/04-student-dashboard.png)
+### Payment
+<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/03-payment.png" width="800"/>
 
-### Course Player
-![Course Player](screenshots/05-course-player.png)
+### Payment Success
+<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/04-payment-success.png" width="800"/>
 
-### Payment Simulation
-![Payment Modal](screenshots/06-payment-modal.png)
+### Course
+<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/05-course.png" width="800"/>
+
+### Manage Course
+<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/06-manage-course.png" width="800"/>
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/07-admin-dashboard.png)
-
-### Manage Courses
-![Manage Courses](screenshots/08-manage-courses.png)
+<img src="https://github.com/PriyankaMeshram19/edulearn-frontend/raw/main/screenshots/07-admin-dashboard.png" width="800"/>
 
 ---
 

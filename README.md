@@ -146,7 +146,7 @@ Deployed on **Vercel**, connected directly to this GitHub repo — every push to
 
 **Priyanka Meshram**
 - 🔗 [GitHub](https://github.com/PriyankaMeshram19)
-- 🔗 [LinkedIn](linkedin.com/in/priyankaameshram)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/priyankaameshram)
 
 ---
 

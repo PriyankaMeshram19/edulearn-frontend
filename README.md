@@ -118,9 +118,6 @@ The app will be available at `http://localhost:5173`.
 Deployed on **Vercel**, connected directly to this GitHub repo — every push to `main` triggers an automatic redeploy. The live backend URL is injected via the `VITE_API_BASE_URL` environment variable.
 
 ---
-
-## 📸 Screenshots
-
 ## 📸 Screenshots
 
 ### Landing Page

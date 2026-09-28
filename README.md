@@ -35,6 +35,11 @@ If you are developing a production application, we recommend using TypeScript wi
 **EduLearn** is a full-stack e-learning platform, inspired by platforms like Udemy, built end-to-end as a portfolio project. Students can browse courses, purchase them through a simulated multi-method payment gateway, watch course videos, and track their learning progress — all in a fully responsive, production-style interface. Admins get a dedicated dashboard to manage the entire course catalog and view enrollment analytics.
 
 ---
+## 🎥 Project Demo
+
+[▶️ Watch the EduLearn Project Vedio](https://drive.google.com/file/d/15WzYtaO5ZQ1q15j-IdLGEjEdCL3emmYU/view?usp=sharing)
+
+---
 
 ## ✨ Features
 
